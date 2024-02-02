@@ -17,7 +17,7 @@
 
 ## 📊 GitHub Stats
 <a href="https://github.com/ixsalimo">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=IXSALIMO&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=IXSALIMO&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&card_width=400">
 </a>
 
 <a href="https://github.com/ixsalimo">
