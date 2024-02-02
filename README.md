@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://github.com/ixsalimo">
-    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IXSALIMO&theme=chartreuse-dark&hide_border=true&card_width=450">
+    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IXSALIMO&theme=chartreuse-dark&hide_border=true&card_width=400">
 </a>
 
 <!--
