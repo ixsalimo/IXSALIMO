@@ -15,11 +15,11 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25"/> GitHub Stats
 <a href="https://github.com/ixsalimo">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=IXSALIMO&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=IXSALIMO&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&card_width=800">
 </a>
 
 <a href="https://github.com/ixsalimo">
-    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IXSALIMO&theme=chartreuse-dark&hide_border=true&card_width=450">
+    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IXSALIMO&theme=tokyonight&hide_border=true&card_width=800">
 </a>
 
 <!--
