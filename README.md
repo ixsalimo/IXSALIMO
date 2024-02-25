@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://github.com/ixsalimo">
-    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IXSALIMO&theme=tokyonight&hide_border=true&card_width=800">
+    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IXSALIMO&theme=tokyonight&hide_border=true&card_width=800&title_color=00D4A7">
 </a>
 
 <!--
