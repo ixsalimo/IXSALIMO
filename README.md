@@ -22,7 +22,8 @@
         />
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=IXSALIMO&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&card_width=800&title_color=00D4A7&text_color=003C46&icon_color=00A0D7&bg_color=EFF1F5&ring_color=005CCB"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+            media="(prefers-color-scheme: light)"
+        />
         <img src="https://github-readme-stats.vercel.app/api?username=IXSALIMO&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&card_width=800&title_color=00D4A7&text_color=003C46&icon_color=00A0D7&bg_color=45,F0F0F0,E0E0E0&ring_color=005CCB"/>
     </picture>
 </a>
