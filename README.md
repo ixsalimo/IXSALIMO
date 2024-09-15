@@ -20,6 +20,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![RegEx](https://img.shields.io/badge/(.*)%20RegEx-3263C5)
 ![Nodemon](https://img.shields.io/badge/Nodemon-444C3C?style=flat&logo=Nodemon&logoColor=76D04B)
+![.ENV](https://img.shields.io/badge/.ENV-0A0905?style=flat&logo=.ENV&logoColor=ECD53F)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
