@@ -40,10 +40,9 @@
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=IXSALIMO&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&card_width=800&title_color=00D4A7&text_color=F0F0F0&icon_color=00A0D7&bg_color=45,071C2E,003C46">
 </a>
 
-<img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IXSALIMO&theme=tokyonight&hide_border=true&card_width=800">
-<!-- <a href="https://github.com/ixsalimo">
+<a href="https://github.com/ixsalimo">
     <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IXSALIMO&theme=tokyonight&hide_border=true&card_width=800">
-</a> -->
+</a>
 
 <!--
 **ixsalimo/ixsalimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
