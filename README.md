@@ -19,8 +19,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=flat&logo=MongoDB&logoColor=00ED64)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=FFF)
-<!-- ![GraphQL](https://img.shields.io/badge/GraphQL-1B1B1B?style=flat&logo=graphql&logoColor=E10098) -->
-<!-- ![Sequelize](https://img.shields.io/badge/Sequelize-FFF?style=flat&logo=Sequelize&logoColor=52B0E7) -->
 ![RegEx](https://img.shields.io/badge/(.*)%20RegEx-3263C5)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
