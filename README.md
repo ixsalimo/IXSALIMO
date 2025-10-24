@@ -2,7 +2,6 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="30" height="30"/> About Me
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="18" height="18"/> I’m currently working on [DramaClub](https://dramaticlub.com) <img src="https://dramaticlub.com/Pic/SVG/DramaClub-Monogram.svg" alt="DramaClub's logo" width="12" height="12">
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="18" height="18"/> I’m currently learning Node.JS <img src="https://nodejs.org/static/logos/jsIconGreen.svg" alt="Node.JS icon" width="18" height="18">
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="18" height="18"> Ask me about anything; I'll be happy to help
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="18" height="18"> You can reach me at [ixsalimo.self@gmail.com](mailto:ixsalimo.self@gmail.com)
 
