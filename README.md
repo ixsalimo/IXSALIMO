@@ -1,13 +1,3 @@
-<h1 align="center">Hello There <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35"/> I'm SeyedAli Mousavi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="35" height="35"/></h1>
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="30" height="30"/> About Me
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="18" height="18"/> I’m currently working on [DramaClub](https://dramaticlub.com) <img src="https://dramaticlub.com/Pic/SVG/DramaClub-Monogram.svg" alt="DramaClub's logo" width="12" height="12">
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="18" height="18"> Ask me about anything; I'll be happy to help
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="18" height="18"> You can reach me at [ixsalimo.self@gmail.com](mailto:ixsalimo.self@gmail.com)
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25"/> Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ixsalimo) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ixsalimo) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5CfSVzBwDH) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ixsalimo)
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25"/> Tech Stack
 ![NodeJS](https://img.shields.io/badge/NodeJS-2D3338?style=flat&logo=Node.JS&logoColor=83BA63)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=323330)
@@ -32,11 +22,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25"/> GitHub Stats
-<a href="https://github.com/ixsalimo">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=IXSALIMO&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&card_width=800&title_color=00D4A7&text_color=F0F0F0&icon_color=00A0D7&bg_color=45,071C2E,003C46">
-</a>
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25"/> Stats
 <a href="https://github.com/ixsalimo">
     <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IXSALIMO&theme=tokyonight&hide_border=true&card_width=800">
 </a>
