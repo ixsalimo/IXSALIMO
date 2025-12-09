@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25"/> Tech Stack
 ![NodeJS](https://img.shields.io/badge/NodeJS-2D3338?logo=Node.JS&logoColor=83BA63)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=323330)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios)
 ![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
