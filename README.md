@@ -3,7 +3,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=323330)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios)
-![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express)
+![Express](https://img.shields.io/badge/Express-000?logo=express)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb)
 ![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=flat&logo=MongoDB&logoColor=00ED64)
