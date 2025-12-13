@@ -6,7 +6,7 @@
 ![Express](https://img.shields.io/badge/Express-000?logo=express)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F.svg?logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb)
-![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=flat&logo=MongoDB&logoColor=00ED64)
+![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?logo=MongoDB&logoColor=00ED64)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=FFF)
 ![RegEx](https://img.shields.io/badge/(.*)%20RegEx-3263C5)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
