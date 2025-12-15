@@ -9,7 +9,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?logo=MongoDB&logoColor=00ED64)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=FFF)
 ![RegEx](https://img.shields.io/badge/(.*)%20RegEx-3263C5)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?logo=CSS)
 ![Apache](https://img.shields.io/badge/Apache-D22128.svg?logo=apache)
