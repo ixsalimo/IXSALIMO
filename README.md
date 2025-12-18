@@ -15,7 +15,7 @@
 ![Apache](https://img.shields.io/badge/Apache-D22128.svg?logo=apache)
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?logo=chart.js&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?logo=Canva&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-026AA7.svg?logo=Trello&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/Github%20Pages-121013?style=flat&logo=github&logoColor=white)
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=white)
