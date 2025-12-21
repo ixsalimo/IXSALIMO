@@ -17,7 +17,7 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?logo=Canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-026AA7.svg?logo=Trello&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
-![GithubPages](https://img.shields.io/badge/Github%20Pages-121013?style=flat&logo=github&logoColor=white)
+![GithubPages](https://img.shields.io/badge/Github%20Pages-121013?logo=github&logoColor=white)
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
